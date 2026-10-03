@@ -1,0 +1,1 @@
+No open-source or data license is asserted without author confirmation. Third-party data are excluded from redistribution; consult the original source terms. Repository creation and file upload do not themselves confer redistribution rights.

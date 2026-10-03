@@ -1,0 +1,12 @@
+{
+  "proposed_github_name": "OdontoCA-clinical-reproducibility",
+  "proposed_osf_title": "OdontoCA tooth-level early-childhood caries clinical reproducibility",
+  "description": "Research-only secondary analysis: manuscript, Colab notebook, aggregate data, figures and execution provenance. 996 transitions, 83 events, 81 children.",
+  "visibility_recommendation": "Private preparation until author and ethics declarations are completed; public aggregate-only release after final checks.",
+  "github_status": "CREATED_PRIVATE",
+  "osf_status": "CREATED_PRIVATE",
+  "license_status": "Author decision pending; third-party data are excluded.",
+  "colab_update_status": "NOT_UPDATED_DRIVE_WRITE_SCOPE_INSUFFICIENT",
+  "github_url": "https://github.com/MarceloClaro/OdontoCA-clinical-reproducibility",
+  "osf_url": "https://osf.io/edcf9/overview"
+}

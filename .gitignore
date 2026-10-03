@@ -1,0 +1,6 @@
+OdontoCA_outputs/
+__pycache__/
+.ipynb_checkpoints/
+*.xlsx
+*.joblib
+*.pkl

@@ -1,0 +1,24 @@
+{
+  "file": "/workspace/scratch/ae50dcbbcf10/deliverables/OdontoCA_submission/OdontoCA_outputs/05_figures/Figure_5_tooth_position_600dpi.png",
+  "pixels": [
+    3480,
+    2610
+  ],
+  "dpi_metadata": [
+    600.0,
+    600.0
+  ],
+  "display_width_in": 5.8,
+  "effective_ppi_at_5_8in": 600.0,
+  "expected_pixels": [
+    3480,
+    2610
+  ],
+  "counts": {
+    "rows": 996,
+    "events": 83,
+    "children": 81
+  },
+  "sha256": "b94c7b5016d9b4196149c7bcc1a6fbd6ae6b8f82763da952306c11210bdeacf5",
+  "status": "PASS"
+}
